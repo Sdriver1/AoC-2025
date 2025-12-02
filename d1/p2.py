@@ -18,5 +18,5 @@ def clicks0(path: str) -> int:
 
 
 if __name__ == "__main__":
-    answer = clicks0("data/d1p1.txt")
+    answer = clicks0("d1.txt")
     print(f"{answer}") # My puzzle answer was 6412

@@ -19,5 +19,5 @@ def rotations(path: str) -> int:
 
 
 if __name__ == "__main__":
-    answer = rotations("data/d1p1.txt")
+    answer = rotations("d1.txt")
     print(f"{answer}") # My puzzle answer was 1078
